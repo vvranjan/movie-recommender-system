@@ -48,9 +48,13 @@ A content-based movie recommendation application built using Python and Streamli
    streamlit run app.py
    ```
 
-## App URL: https://movie-recommender-system-vvranjan.streamlit.app/
+## App URL: 
+https://movie-recommender-system-vvranjan.streamlit.app/
+
 
 ## Author
 
 **Vaibhav V. Ranjan**
+
+
 
